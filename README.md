@@ -2,6 +2,7 @@
 By using the project we can pass throught ... using **hosts**, we just use right DNS, not to transpond data to some vps in US or other regions.
 
 1.Add the rules to your local hosts file in `hosts`.
+
 2.Run the command in command prompt.
 
 > ipconfig /flushdns
