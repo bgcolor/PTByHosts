@@ -1,5 +1,5 @@
 # PTByHosts
-By using the project we can pass throught ... using **hosts**, we just use right DNS, not to transpond data to some vps in US or other regions.
+Private collection method for pass through some wall. This method does not use third party to transpond.
 
 1.Add the rules to your local hosts file in `hosts`.
 
